@@ -2,14 +2,14 @@
 title: Creating a new website is (kind of) easy
 subtitle: Welcome 👋 This website was created to accompany you in the process of
   creating a personal website for free, coding.
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 summary: Welcome 👋 to IFLRY codes.
 draft: false
 featured: false
 authors:
   - admin
   - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
   - 开源
@@ -51,6 +51,8 @@ If something goes into the parenthesis, it is an hipervincle.
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Changes by Aura Arbulu 2022-present
+Changes by Aura Arbulu 2022-present.
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+
+Hussam rules.
