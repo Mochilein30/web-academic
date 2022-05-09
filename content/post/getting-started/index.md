@@ -51,4 +51,6 @@ If something goes into the parenthesis, it is an hipervincle.
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
+Changes by Aura Arbulu 2022-present
+
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
